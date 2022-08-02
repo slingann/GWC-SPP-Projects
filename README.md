@@ -1,2 +1,8 @@
-# GWC-SPP-Projects
-A collection of links to projects I completed during Girls Who Code SPP 2022.
+# Girls Who Code SPP Projects
+
+---
+## CyHelp
+### 📂 [View Project Repository](https://github.com/slingann/GWC-CyHelp)
+---
+## Breach Bot
+### 📂 [View Project Repository](https://github.com/slingann/GWC-Breach-Bot)
